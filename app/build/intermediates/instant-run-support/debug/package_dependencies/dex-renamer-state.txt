@@ -1,0 +1,4 @@
+#Sun Jul 02 21:05:38 KST 2017
+base.0=C\:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_3a9957619f252574900150aef0ee802844f4bcb2
+renamed.0=classes.dex
+file.0=C\:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_3a9957619f252574900150aef0ee802844f4bcb2\\classes.dex

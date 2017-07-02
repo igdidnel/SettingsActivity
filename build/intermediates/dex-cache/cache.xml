@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kss\AndroidStudioProjects\ExamplePreferenceActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b159c5edc5ce29f3c3898d2041371fd17f58dde">
+        <dex dex="C:\Users\kss\AndroidStudioProjects\ExamplePreferenceActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8389466772d3ede4efbfd041b6854ac05b06f481\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kss\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\kss\AndroidStudioProjects\ExamplePreferenceActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_3a9957619f252574900150aef0ee802844f4bcb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kss\AndroidStudioProjects\ExamplePreferenceActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\kss\AndroidStudioProjects\ExamplePreferenceActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_45cdeb3a095148628c8a55cac999ec99d18c902a\classes.dex" />
+    </item>
+
+</items>

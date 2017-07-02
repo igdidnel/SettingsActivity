@@ -1,0 +1,186 @@
+[
+    {
+        "outputFile": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 57,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 55,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 52,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 52,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 62,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 62,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 65,
+                    "endOffset": 620
+                },
+                "from": {
+                    "file": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 65,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 625,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1071
+                },
+                "from": {
+                    "file": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

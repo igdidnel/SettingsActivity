@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_made_by.xml",
+        "source": "C:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\src\\main\\res\\layout\\activity_made_by.xml"
+    }
+]

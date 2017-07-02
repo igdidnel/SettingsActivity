@@ -1,0 +1,4 @@
+#Sun Jul 02 21:05:39 KST 2017
+base.0=C\:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\kss\\AndroidStudioProjects\\ExamplePreferenceActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
